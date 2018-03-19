@@ -5,3 +5,5 @@ to force upload: git push origin master --force
 to compile: gcc name_of_file -o name_of_output_file
 
 to commit: git commit -m "comment"
+
+Need to add files that are going to be committed first: git commit 
