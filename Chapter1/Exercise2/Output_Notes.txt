@@ -1,0 +1,8 @@
+Error is thrown when Exercise1-2 is run. 
+
+
+Warning:
+
+Exercise1-2.c:9:10: warning: unknown escape sequence: '\c' [enabled by default]
+   printf("\c");
+          ^
