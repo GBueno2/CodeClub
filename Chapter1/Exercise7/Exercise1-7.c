@@ -8,4 +8,4 @@ main()
   printf("%d\n",EOF);
 }
 
-
+// Value of EOF = -1
