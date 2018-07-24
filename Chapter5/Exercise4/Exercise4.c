@@ -14,7 +14,7 @@ int strends(char s[], char t[]);
 
 
 /*
-  Since we are only worried about it occuring at the end of the string then 
+  Since we are only worried about it occurring at the end of the string then
   I check from the end of the string to the beginning. If it doesn't occur
   exactly at the end then the function will output 0.
 */
